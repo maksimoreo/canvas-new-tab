@@ -2,6 +2,8 @@
 
 CanvasNewTab is a browser extension that replaces deafult home page with new tab that you can design yourself.
 
+See demo on YouTube: https://youtu.be/5hBneRpVfMc
+
 Screenies:
 
 ![Screenshoft of minimal-light-rounded theme](docs/minimal-light-rounded.png)
