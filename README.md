@@ -2,7 +2,7 @@
 
 CanvasNewTab is a browser extension that replaces deafult home page with new tab that you can design yourself.
 
-Get extension for Chrome: https://chromewebstore.google.com/detail/canvasnewtab/afhpmegijccdfofipmlojaoaccibjmnl
+Add this extension to your Chrome browser: https://chromewebstore.google.com/detail/canvasnewtab/afhpmegijccdfofipmlojaoaccibjmnl
 
 See demo on YouTube: https://youtu.be/5hBneRpVfMc
 
