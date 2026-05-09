@@ -2,6 +2,8 @@
 
 CanvasNewTab is a browser extension that replaces deafult home page with new tab that you can design yourself.
 
+Get extension for Chrome: https://chromewebstore.google.com/detail/canvasnewtab/afhpmegijccdfofipmlojaoaccibjmnl
+
 See demo on YouTube: https://youtu.be/5hBneRpVfMc
 
 Screenies:
@@ -32,9 +34,9 @@ WXT will open a new clean instance of Chrome browser automatically. Here, open a
 # Features
 
 - Replaces browser's default home page
-- Canvas with items and groups
-- Enter text or SVG icon
-- Select and edit multiple items at once
+- In-browser home page editor
+- Drag, resize, and group multiple items at once
+- Multi-item editing tools
 
 # Credits
 
